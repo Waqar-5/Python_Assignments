@@ -1,3 +1,6 @@
+# exception handling 
+
+
 numbers = [12, 1, "a", 10, 2]
 # numbers = ["b","c", "a",]
 
